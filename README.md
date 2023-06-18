@@ -8,6 +8,7 @@ Selain itu saya juga mengikuti ekstrakurikuler Bulu Tangkis di sekolah yaitu di 
 - Solve Rubik's Cube
 - Get the heart of beautiful girl
 - Reach MYTHICAL GLORY.
+- dll.
 
 ## Github Record 📊📈
 <p align="left">
