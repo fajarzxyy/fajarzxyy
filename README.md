@@ -1,16 +1,23 @@
-### Hi there 👋
+# Halo semua, saya Fajar 👋
 
-<!--
-**fajarzxyy/fajarzxyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang Pelajar/Siswa dari Universitas **SMK Negeri 2 Surabaya** jurusan Rekayasa Perangkat Lunak **(RPL).** <br>
+Selain itu saya juga mengikuti ekstrakurikuler Bulu Tangkis di sekolah yaitu **Badminton Smekda**.
 
-Here are some ideas to get you started:
+## Skill 😀
+- Beginner programmers language HTML, CSS, JAVA SCRIPT, and Others
+- Solve Rubik's Cube
+- Get the heart of beautiful girl
+- Reach MYTHICAL GLORY.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Record 📊📈
+<p align="left">
+<a href="https://github.com/fajarzxyy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fajarzxyy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fajarzxyy&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+## Get in Touch 🤝👋
+Jika anda tertarik berkenalan dengan saya, silahkan kontak saya di bawah ini ya :
+- [Instagram](https://www.instagram.com/fajarzxy/)
+- [Website](https://fajarzxyy.github.io/)
