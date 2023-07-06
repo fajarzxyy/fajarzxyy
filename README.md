@@ -1,6 +1,6 @@
 # Halo semua, saya Fajar 👋
 
-Saya adalah seorang Pelajar/Siswa dari Universitas **SMK Negeri 2 Surabaya** jurusan Rekayasa Perangkat Lunak **(RPL).** <br>
+Saya adalah seorang Pelajar/Siswa dari **SMK Negeri 2 Surabaya** jurusan Rekayasa Perangkat Lunak **(RPL).** <br>
 Selain itu saya juga mengikuti ekstrakurikuler Bulu Tangkis di sekolah yaitu di **Badminton Smekda**.
 
 ## Skill 😀
