@@ -5,10 +5,10 @@ Selain itu saya juga mengikuti ekstrakurikuler Bulu Tangkis di sekolah yaitu di 
 
 ## Skill 😀
 - Beginner programmers language HTML, CSS, JAVA SCRIPT, and Others
-- Solve Rubik's Cube
-- Get the heart of beautiful girl
-- Reach MYTHICAL GLORY.
-- dll.
+- Solve Rubik's Cube fast
+- Play Badminton Well
+- Reach MYTHICAL IMMORTAL.
+- etc.
 
 ## Github Record 📊📈
 <p align="left">
